@@ -1,0 +1,38 @@
+### logs and temporary files ###
+logs/
+*.log
+*.tmp
+*.bak
+
+### surroundingg (IDE) ###
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+
+### Maven ###
+target/
+*/target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+### system files ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+###  ###
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+### other shit###
+/bin/
+/build/
+/out/
+*.orig
